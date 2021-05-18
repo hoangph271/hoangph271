@@ -16,7 +16,8 @@ Apart from coding, here are the things I love:
 - 👟 Kung Fury
 - 🌊 Avatar: The last Airbender
 - ⛱ How I Met Your Mother
-f
+- 📻 DSK
+
 <p align="center">
   <a href="https://join.skype.com/invite/fCJAQbUbIXft" target="_blank">
     <img alt="Skype me" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Skype-512.png" width="30" />

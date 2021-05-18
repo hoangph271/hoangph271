@@ -16,15 +16,22 @@ Apart from coding, here are the things I love:
 - 👟 Kung Fury
 - 🌊 Avatar: The last Airbender
 - ⛱ How I Met Your Mother
-
-<details>
-  <summary>You can reach me via...!</summary>
-  
-  - [Skype](https://join.skype.com/invite/fCJAQbUbIXft)
-  - [Facebook](https://fb.com/hoangph271)
-  - [Email](mailto:hoangph271@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/hoangph271)
-</details>
+f
+<p align="center">
+  <a href="https://join.skype.com/invite/fCJAQbUbIXft">
+    <img alt="Skype me" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Skype-512.png" width="30" />
+  </a>
+  <a href="mailto:hoangph271@gmail.co">
+    <img alt="Email me" src="https://www.pngkit.com/png/full/307-3072428_email-icon-dark-blue.png" width="30" />
+  </a>
+  <a href="https://fb.com/hoangph271">
+    <img alt="My Facebook" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" width="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/hoangph271">
+    <img alt="My LinkedIn" src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30" />
+  </a>
+</p>
 
 ---
+
 ![My CodersRank profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=hoangph271&branding=false)

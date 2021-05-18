@@ -1,5 +1,6 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangph271&show_icons=true&theme=nord)  
-I'm a developer from Vietnam...! <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/facebook/65/flag-for-vietnam_1f1fb-1f1f3.png" alt="Flag of Vietnam" width="20" />
+I'm from Vietnam...!
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/facebook/65/flag-for-vietnam_1f1fb-1f1f3.png" alt="Flag of Vietnam" width="20" />
 
 - 🦀 I did [some experiments](https://github.com/hoangph271/launcher) with #Rust
 - 🌟 I made a [GIF tool](https://github.com/hoangph271/gallereasy) with React

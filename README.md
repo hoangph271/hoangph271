@@ -23,6 +23,7 @@ Apart from coding, here are the things I love:
   - [Skype](https://join.skype.com/invite/fCJAQbUbIXft)
   - [Facebook](https://fb.com/hoangph271)
   - [Email](mailto:hoangph271@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/hoangph271)
 </details>
 
 ---

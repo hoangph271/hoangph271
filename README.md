@@ -2,7 +2,8 @@
 I'm a developer from Vietnam...! 🇻🇳
 
 - 🦀 I did [some experiments](https://github.com/hoangph271/launcher) with #Rust
-- 🌟 React and JS is [my star](https://galler-easy.netlify.app/)
+- 🌟 I made a [GIF tool](https://github.com/hoangph271/gallereasy) with React
+- 📜 And [the Bro code](https://github.com/hoangph271/the_bro_code), as well.
 
 Apart from coding, here are the things I love:
 

@@ -7,7 +7,7 @@ I'm from Vietnam...!
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/facebook/65/flag-for-vietnam_1f1fb-1f1f3.png" alt="Flag of Vietnam" width="20" />
 
 - 🦀 I did [some experiments](https://github.com/hoangph271/launcher) with #Rust
-- 🌟 I made a [GIF tool](https://github.com/hoangph271/gallereasy) with React
+- 🌟 I made a [GIF search tool](https://github.com/hoangph271/gallereasy) with React
 - 📜 And [the Bro code](https://github.com/hoangph271/the_bro_code), as well
 
 Apart from coding, here are the things I love:

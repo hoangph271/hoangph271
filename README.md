@@ -20,16 +20,16 @@ Apart from coding, here are the things I love:
 
 <p align="center">
   <a href="https://join.skype.com/invite/fCJAQbUbIXft" target="_blank">
-    <img alt="Skype me" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Skype-512.png" width="30" />
+    <img alt="Skype me" src="skype-pngrepo-com.png" width="30" />
   </a>
   <a href="mailto:hoangph271@gmail.co" target="_blank">
-    <img alt="Email me" src="https://www.pngkit.com/png/full/307-3072428_email-icon-dark-blue.png" width="30" />
+    <img alt="Email me" src="gmail-pngrepo-com.png" width="30" />
   </a>
   <a href="https://fb.com/hoangph271" target="_blank">
-    <img alt="My Facebook" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" width="30" />
+    <img alt="My Facebook" src="facebook-pngrepo-com.png" width="30" />
   </a>
   <a href="https://www.linkedin.com/in/hoangph271" target="_blank">
-    <img alt="My LinkedIn" src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30" />
+    <img alt="My LinkedIn" src="linkedin-pngrepo-com.png" width="30" />
   </a>
 </p>
 

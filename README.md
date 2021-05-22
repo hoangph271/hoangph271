@@ -20,16 +20,16 @@ Apart from coding, here are the things I love:
 
 <p align="center">
   <a href="https://join.skype.com/invite/fCJAQbUbIXft" target="_blank">
-    <img alt="Skype me" src="skype-pngrepo-com.png" width="30" />
+    <img alt="Skype me" src="skype.png" width="30" />
   </a>
   <a href="mailto:hoangph271@gmail.co" target="_blank">
-    <img alt="Email me" src="gmail-pngrepo-com.png" width="30" />
+    <img alt="Email me" src="gmail.png" width="30" />
   </a>
   <a href="https://fb.com/hoangph271" target="_blank">
-    <img alt="My Facebook" src="facebook-pngrepo-com.png" width="30" />
+    <img alt="My Facebook" src="facebook.png" width="30" />
   </a>
   <a href="https://www.linkedin.com/in/hoangph271" target="_blank">
-    <img alt="My LinkedIn" src="linkedin-pngrepo-com.png" width="30" />
+    <img alt="My LinkedIn" src="linkedin.png" width="30" />
   </a>
 </p>
 

@@ -27,7 +27,7 @@ Apart from coding, here are the things I love:
     <img alt="Email me" src="gmail.png" width="30" />
   </a>
   <span>&nbsp;</span>
-  <a href="https://fb.com/hoangph271" target="_blank">
+  <a href="https://fb.com/crustyrat271" target="_blank">
     <img alt="My Facebook" src="fb.png" width="30" />
   </a>
   <span>&nbsp;</span>

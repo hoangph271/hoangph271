@@ -9,6 +9,7 @@ I'm from Vietnam...!
 - 🦀 I did [some experiments](https://github.com/hoangph271/launcher) with #Rust
 - 🌟 I made a [GIF search tool](https://github.com/hoangph271/gallereasy) with React
 - 📜 And [the Bro code](https://github.com/hoangph271/the_bro_code), as well
+- 🎩 Check out my [CodersRank profile](https://profile.codersrank.io/user/hoangph271)
 
 Apart from coding, here are the things I love:
 

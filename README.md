@@ -15,9 +15,6 @@ Apart from coding, here are the things I love:
 
 - 🦄 Gravity Falls
 - 🥒 Rick and Morty
-- 👟 Kung Fury
-- 🌊 Avatar: The last Airbender
-- ⛱ How I Met Your Mother
 - 📻 DSK
 
 <p align="center">

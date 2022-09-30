@@ -37,4 +37,6 @@ Apart from coding, here are the things I love:
 
 ---
 
+<!--- Wait for CodersRank's bug to be fixed
 ![My CodersRank profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=hoangph271&branding=false)
+--->

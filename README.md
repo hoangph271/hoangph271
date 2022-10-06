@@ -1,6 +1,4 @@
-<p align="center">
-  <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hoangph271&show_icons=true&theme=nord" />
-</p>
+![Snêu's GitHub stats](https://github-readme-stats-blond-xi.vercel.app/api?username=hoangph271&show_icons=true&theme=synthwave&count_private=true)
 
 Hi there...!  
 I'm from Vietnam...!

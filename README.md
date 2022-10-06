@@ -1,4 +1,4 @@
-![Snêu's GitHub stats](https://github-readme-stats-blond-xi.vercel.app/api?username=hoangph271&show_icons=true&theme=synthwave&count_private=true)
+![Snêu's GitHub stats](https://github-readme-stats-blond-xi.vercel.app/api?username=hoangph271&show_icons=true&theme=radical&count_private=true)
 
 Hi there...!  
 I'm from Vietnam...!

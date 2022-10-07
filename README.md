@@ -33,8 +33,5 @@ Apart from coding, here are the things I love:
   </a>
 </p>
 
-<!--- Wait for CodersRank's bug to be fixed
----
 
-![My CodersRank profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=hoangph271&branding=false)
---->
+![My CodersRank profile](https://rewrite-content-type.deno.dev/?url=https%3A%2F%2Fcr-ss-service.azurewebsites.net%2Fapi%2FScreenShot%3Fwidget%3Dsummary%26username%3Dhoangph271%26branding%3Dfalse&contentType=image%2Fjpeg)

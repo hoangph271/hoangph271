@@ -34,4 +34,4 @@ Apart from coding, here are the things I love:
 </p>
 
 
-![My CodersRank profile](https://rewrite-content-type.deno.dev/?url=https%3A%2F%2Fcr-ss-service.azurewebsites.net%2Fapi%2FScreenShot%3Fwidget%3Dsummary%26username%3Dhoangph271%26branding%3Dfalse&contentType=image%2Fjpeg)
+[![My CodersRank profile](https://rewrite-content-type.deno.dev/?url=https%3A%2F%2Fcr-ss-service.azurewebsites.net%2Fapi%2FScreenShot%3Fwidget%3Dsummary%26username%3Dhoangph271%26branding%3Dfalse&contentType=image%2Fjpeg)](https://profile.codersrank.io/user/hoangph271)

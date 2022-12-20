@@ -14,7 +14,7 @@ I'm from Vietnam...!
 - 📜 And [the Bro code](https://github.com/hoangph271/the_bro_code), as well
 - 🎩 Check out my [CodersRank profile](https://profile.codersrank.io/user/hoangph271)
 
-Apart from coding, here are the things I love:
+I also like:
 
 - 🦄 Gravity Falls
 - 🥒 Rick and Morty

@@ -9,7 +9,7 @@ Hi there...!
 I'm from Vietnam...!
 <img src="flag-vietnam.png" alt="Flag of Vietnam" width="20" />
 
-- 🦀 I did [some](https://github.com/hoangph271/hbp) [experiments](https://github.com/hoangph271/sneu_rs) with #Rust
+- 🦀 I did [some](https://github.com/hoangph271/hbp) [experiments](https://github.com/hoangph271/sneu_rs) with Rust
 - 🌟 I made a [GIF search tool](https://github.com/hoangph271/gallereasy) with React
 - 📜 And [the Bro code](https://github.com/hoangph271/the_bro_code), as well
 - 🎩 Check out my [CodersRank profile](https://profile.codersrank.io/user/hoangph271)

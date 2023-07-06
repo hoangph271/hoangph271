@@ -14,7 +14,7 @@ I'm from Vietnam...!
 - 📜 And [the Bro code](https://github.com/hoangph271/the_bro_code), as well
 - 🎩 Check out my [CodersRank profile](https://profile.codersrank.io/user/hoangph271)
 
-When I'm not coding, I enjoy::
+When I'm not coding, I enjoy:
 
 - 🦄 Gravity Falls
 - 🥒 Rick and Morty

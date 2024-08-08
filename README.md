@@ -5,9 +5,7 @@
   </picture>
 </p>
 
-Hi there...!  
-I'm from Vietnam...!
-<img src="flag-vietnam.png" alt="Flag of Vietnam" width="20" />
+Rust & TypeScript developer
 
 - 🦀 I did [some](https://github.com/hoangph271/hbp) [experiments](https://github.com/hoangph271/sneu_rs) with Rust
 - 🌟 I made a [GIF search tool](https://github.com/hoangph271/gallereasy) with React, and [a new implementation with Flutter](https://github.com/hoangph271/sane_gallery)

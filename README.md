@@ -17,7 +17,7 @@ When I'm not coding, I enjoy:
 - 🦄 Gravity Falls
 - 🥒 Rick and Morty
 - 📻 DSK
-- 📸 [Photography](https://500px.com/p/crustyrat271)
+- 📸 Photography
 
 <p align="center">
   <a href="https://join.skype.com/invite/fCJAQbUbIXft" target="_blank">

@@ -36,6 +36,3 @@ When I'm not coding, I enjoy:
     <img alt="My LinkedIn" src="linkedin.png" width="30" />
   </a>
 </p>
-
-
-[My CodersRank profile](https://profile.codersrank.io/user/hoangph271)

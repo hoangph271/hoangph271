@@ -20,16 +20,8 @@ When I'm not coding, I enjoy:
 - 📸 Photography
 
 <p align="center">
-  <a href="https://join.skype.com/invite/fCJAQbUbIXft" target="_blank">
-    <img alt="Skype me" src="skype.png" width="30" />
-  </a>
-  <span>&nbsp;</span>
   <a href="mailto:hoangph271@gmail.co" target="_blank">
     <img alt="Email me" src="gmail.png" width="30" />
-  </a>
-  <span>&nbsp;</span>
-  <a href="https://fb.com/crustyrat271" target="_blank">
-    <img alt="My Facebook" src="fb.png" width="30" />
   </a>
   <span>&nbsp;</span>
   <a href="https://www.linkedin.com/in/hoangph271" target="_blank">

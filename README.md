@@ -1,10 +1,3 @@
-<p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats-blond-xi.vercel.app/api?username=hoangph271&show_icons=true&theme=radical&count_private=true">
-    <img src="https://github-readme-stats-blond-xi.vercel.app/api?username=hoangph271&show_icons=true&theme=radical&count_private=true" alt="Snêu's GitHub stats">
-  </picture>
-</p>
-
 Rust & TypeScript developer
 
 - 🦀 I did [some](https://github.com/hoangph271/hbp) [experiments](https://github.com/hoangph271/sneu_rs) with Rust

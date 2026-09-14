@@ -1,9 +1,9 @@
 Rust & TypeScript developer
 
-- 🦀 I did [some](https://github.com/hoangph271/hbp) [experiments](https://github.com/hoangph271/sneu_rs) with Rust
-- 🌟 I made a [GIF search tool](https://github.com/hoangph271/gallereasy) with React, and [a new implementation with Flutter](https://github.com/hoangph271/sane_gallery)
-- 📜 And [the Bro code](https://github.com/hoangph271/the_bro_code), as well
-- 🎩 Check out my [CodersRank profile](https://profile.codersrank.io/user/hoangph271)
+- 🦀 [some](https://github.com/hoangph271/hbp) [experiments](https://github.com/hoangph271/sneu_rs) with Rust
+- 🌟 [GIF search tool](https://github.com/hoangph271/gallereasy) with React, and [a new implementation with Flutter](https://github.com/hoangph271/sane_gallery)
+- 📜 [the Bro code](https://github.com/hoangph271/the_bro_code), as well
+- 🎩 [CodersRank profile](https://profile.codersrank.io/user/hoangph271)
 
 When I'm not coding, I enjoy:
 
